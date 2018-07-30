@@ -4,9 +4,10 @@ This is the solution for Task: Your task is to write End-to-End tests as well as
 
 Pre-requisite to run the tests :
 
-1. Java 1.8 should be installed on the machine.
-2. Maven should be installed on the machine.
-3. Firefox should be installed on the machine.
+1.Start the app on local machine running on 127.0.0.1:8080 or change the url in SolventSelenium file if the app is running on different url or path.
+2.Java 1.8 should be installed on the machine.
+3. Maven should be installed on the machine.
+4. Firefox should be installed on the machine.
 
 Steps to run :
 
