@@ -8,9 +8,9 @@ Pre-requisite to run the tests :
 
 2.Java 1.8 should be installed on the machine.
 
-3. Maven should be installed on the machine.
+3.Maven should be installed on the machine.
 
-4. Firefox should be installed on the machine.
+4.Firefox should be installed on the machine.
 
 Steps to run :
 
